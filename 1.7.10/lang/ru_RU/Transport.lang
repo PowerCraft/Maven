@@ -1,0 +1,24 @@
+#ru_RU language files.
+pc.gui.separationBelt.group=Ignore subtypes of
+pc.gui.separationBelt.groupLogs=Logs
+pc.gui.separationBelt.groupPlanks=Planks
+pc.gui.separationBelt.groupAll=All
+pc.gui.ejector.modeEjectTitle=Режим извлечения:
+pc.gui.ejector.modeStacks=Стак
+pc.gui.ejector.modeItems=Предмет
+pc.gui.ejector.modeAll=Всё сразу
+pc.gui.ejector.modeSelectTitle=Метод извлечения:
+pc.gui.ejector.modeSelectFirst=Первый слот
+pc.gui.ejector.modeSelectLast=Последний слот
+pc.gui.ejector.modeSelectRandom=Случайный слот
+tile.PCtr_BlockSplitter.name=Разветвитель
+tile.PCtr_BlockElevator.up.name=Лифт вверх
+tile.PCtr_BlockElevator.down.name=Лифт вниз
+tile.PCtr_BlockBeltNormal.name=Нормальный конвейер
+tile.PCtr_BlockBeltSpeedy.name=Скоростной конвейер 
+tile.PCtr_BlockBeltBreak.name=Конвейер с отверстиями
+tile.PCtr_BlockBeltDetector.name=Детектор конвейер 
+tile.PCtr_BlockBeltRedirector.name=Перенаправляющий конвейер 
+tile.PCtr_BlockBeltSeparator.name=Распределяющий конвейер
+tile.PCtr_BlockBeltEjector.name=Извлекающий конвейер
+item.PCtr_ItemArmorStickyBoots.name=Липкие ботинки

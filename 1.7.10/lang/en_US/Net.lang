@@ -1,0 +1,19 @@
+#en_US language files.
+tile.PCnt_BlockSensor.item.name=Item sensor
+tile.PCnt_BlockSensor.living.name=Mob sensor
+tile.PCnt_BlockSensor.player.name=Player sensor
+tile.PCnt_BlockRadio.rx.name=Radio receiver
+tile.PCnt_BlockRadio.tx.name=Radio transmitter
+pc.gui.sensor.range=Detection distance:
+pc.sensor.range.1=Range: %s block
+pc.sensor.range.2-4=Range: %s block
+pc.sensor.range.5+=Range: %s block
+pc.gui.radio.channel=Channel:
+pc.gui.radio.showLabel=Show label
+pc.gui.radio.errChannel=Invalid channel name.
+pc.gui.radio.renderSmall=Tiny
+pc.radioRemote.connected=Portable transmitter connected to channel %s.
+pc.radioRemote.desc=Channel: %s
+pc.radio.activatorSetChannel=Radio connected to channel %s.
+pc.radio.activatorGetChannel=Channel %s assigned to activation crystal.
+item.PCnt_ItemRadioRemote.name=Radio Remote

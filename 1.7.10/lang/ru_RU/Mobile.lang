@@ -1,0 +1,29 @@
+#ru_RU language files.
+pc.miner.disconnected=Майнер %s отключен от клавиатуры.
+pc.miner.connected=Майнер %s подключен к клавиатуре.
+pc.miner.bridgeOn=Постройка мостов включена.
+pc.miner.bridgeOff=Постройка мостов отключена.
+pc.miner.launchedAll=Майнеры запущены и отключены.
+pc.miner.miningOn=Режим шахтёра включен
+pc.miner.miningOff=Режим шахтёра выключен
+pc.miner.operationsCancelled=Все операции прерваны.
+pc.miner.build.errInvalidStructure=Неправильная структура майнера!
+pc.miner.build.errMissingCrystals=Положите кристаллы в сундук!
+
+pc.gui.miner.settings=Настройки
+pc.gui.miner.cargo=Хранилище
+
+pc.gui.miner.opt.mining=Добыча
+pc.gui.miner.opt.bridge=Постройка мостов
+pc.gui.miner.opt.lavaFill=Заполнение лавы
+pc.gui.miner.opt.waterFill=Заполнение воды
+pc.gui.miner.opt.airFill=Заполнение воздуха - режим тунеля
+pc.gui.miner.opt.keepFuel=Сохранять всё топливо
+pc.gui.miner.opt.torchPlacing=Установка факелов
+pc.gui.miner.opt.torchesOnlyOnFloor=Установка факелов только на пол
+pc.gui.miner.opt.compress=Сжимать предметы
+pc.gui.miner.opt.makeCobble=Создавать булыжник (вода и лава)
+
+pc.gui.miner.title=Майнер
+
+pc.miner.chestName=Грузовое хранилище майнера

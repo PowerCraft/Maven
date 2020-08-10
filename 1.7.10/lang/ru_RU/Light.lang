@@ -1,0 +1,14 @@
+#ru_RU language files.
+tile.PCli_BlockLight.name=Лампа
+tile.PCli_BlockLightningConductor.name=Громоотвод
+tile.PCli_BlockLaser.name=Лазер
+tile.PCli_BlockMirror.name=Зеркало
+tile.PCli_BlockPrism.name=Призма
+tile.PCli_BlockLaserSensor.name=Датчик лазера
+pc.gui.light.isHuge=Большой
+pc.gui.light.isStable=Стабильный
+death.attack.laser=%s хотел узнать его возвратность
+item.PCli_ItemLaserComposition.name=Линза
+item.PCli_ItemLaserComposition.distance.name=Уровень расстояния %s
+item.PCli_ItemLaserComposition.kill.name=Уровень смертельности %s
+item.PCli_ItemLaserComposition.sensor.name=Уровень датчика %s

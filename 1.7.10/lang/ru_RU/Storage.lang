@@ -1,0 +1,4 @@
+#ru_RU language files.
+pc.gui.compressor.name=Имя:
+item.PCs_ItemCompressor.normal.name=Компрессор
+item.PCs_ItemCompressor.enderaccess.name=Компрессор эндера

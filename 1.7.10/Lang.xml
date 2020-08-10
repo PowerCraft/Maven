@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+    <!--en_US-->
+    <Lang name="Core" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Core.lang</Lang>
+    <Lang name="Deco" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Deco.lang</Lang>
+    <Lang name="Hologram" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Hologram.lang</Lang>
+    <Lang name="Light" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Light.lang</Lang>
+    <Lang name="Logic" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Logic.lang</Lang>
+    <Lang name="Machines" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Machines.lang</Lang>
+    <Lang name="Mobile" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Mobile.lang</Lang>
+    <Lang name="Net" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Net.lang</Lang>
+    <Lang name="Storage" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Storage.lang</Lang>
+    <Lang name="Teleport" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Teleport.lang</Lang>
+    <Lang name="Transport" lang="en_US" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/en_US/Transport.lang</Lang>
+    
+    <!--ru_RU-->
+    <Lang name="Core" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Core.lang</Lang>
+    <Lang name="Deco" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Deco.lang</Lang>
+    <Lang name="Hologram" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Hologram.lang</Lang>
+    <Lang name="Light" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Light.lang</Lang>
+    <Lang name="Logic" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Logic.lang</Lang>
+    <Lang name="Machines" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Machines.lang</Lang>
+    <Lang name="Mobile" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Mobile.lang</Lang>
+    <Lang name="Net" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Net.lang</Lang>
+    <Lang name="Storage" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Storage.lang</Lang>
+    <Lang name="Teleport" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Teleport.lang</Lang>
+    <Lang name="Transport" lang="ru_RU" version="1">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/lang/ru_RU/Transport.lang</Lang>
+ </Info>
+<!-- TODO
+<Lang lang="pt_BR" version="1">https://www.dropbox.com/s/gl81gb6m4s73lkl/PT_BR%203.4.9.zip?dl=1</Lang>
+-->

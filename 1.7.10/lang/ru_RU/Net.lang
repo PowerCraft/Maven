@@ -1,0 +1,19 @@
+#ru_RU language files.
+tile.PCnt_BlockSensor.item.name=Датчик предметов
+tile.PCnt_BlockSensor.living.name=Датчик мобов
+tile.PCnt_BlockSensor.player.name=Датчик игроков
+tile.PCnt_BlockRadio.rx.name=Радио приемник
+tile.PCnt_BlockRadio.tx.name=Радио передатчик
+pc.gui.sensor.range=Расстояние обнаружения:
+pc.sensor.range.1=Range: %s блок
+pc.sensor.range.2-4=Range: %s блока
+pc.sensor.range.5+=Range: %s блоков
+pc.gui.radio.channel=Канал:
+pc.gui.radio.showLabel=Показывать канал
+pc.gui.radio.errChannel=Некорректное имя канала.
+pc.gui.radio.renderSmall=Крошечный
+pc.radioRemote.connected=Портативный передатчик подключен к каналу %s.
+pc.radioRemote.desc=Канал: %s
+pc.radio.activatorSetChannel=Радио подключенно к каналу %s.
+pc.radio.activatorGetChannel=Канал %s привязан к активационному кристалу.
+item.PCnt_ItemRadioRemote.name=Пульт д/у

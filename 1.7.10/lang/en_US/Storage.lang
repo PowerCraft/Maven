@@ -1,0 +1,4 @@
+#en_US language files.
+pc.gui.compressor.name=name:
+item.PCs_ItemCompressor.normal.name=Compressor
+item.PCs_ItemCompressor.enderaccess.name=Ender compressor

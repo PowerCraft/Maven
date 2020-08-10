@@ -1,0 +1,20 @@
+#en_US language files.
+tile.PCde_BlockIronFrame.name=Iron frame
+tile.PCde_BlockChimney.type0.name=Cobblestone chimney
+tile.PCde_BlockChimney.type1.name=Brick chimney
+tile.PCde_BlockChimney.type2.name=Stone brick chimney
+tile.PCde_BlockChimney.type3.name=Cracked stone brick chimney
+tile.PCde_BlockChimney.type4.name=Chiseled stone brick chimney
+tile.PCde_BlockChimney.type5.name=Sandstone chimney
+tile.PCde_BlockChimney.type6.name=Chiseled sandstone chimney
+tile.PCde_BlockChimney.type7.name=Smooth sandstone chimney
+tile.PCde_BlockChimney.type8.name=Nether brick chimney
+tile.PCde_BlockChimney.type9.name=Quartz chimney
+tile.PCde_BlockChimney.type10.name=Chiseled quartz chimney
+tile.PCde_BlockChimney.type11.name=Pillar Quartz chimney
+tile.PCde_BlockChimney.type12.name=Mossy cobblestone chimney
+tile.PCde_BlockChimney.type13.name=Mossy stone brick chimney
+tile.PCde_BlockChimney.type14.name=Clay chimney
+tile.PCde_BlockChimney.type15.name=Iron chimney
+tile.PCde_BlockPlatform.name=Platform
+tile.PCde_BlockStairs.name=Stairs

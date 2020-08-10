@@ -1,0 +1,23 @@
+#en_US language files.
+tile.PCma_BlockAutomaticWorkbench.name=Automatic workbench
+tile.PCma_BlockRoaster.name=Roaster
+tile.PCma_BlockReplacer.name=Replacer
+tile.PCma_BlockTransmutabox.name=Transmutabox
+tile.PCma_BlockXPBank.name=XP bank
+tile.PCma_BlockBlockBuilder.name=Block builder
+tile.PCma_BlockHarvester.name=Harvester
+pc.gui.automaticWorkbench.redstoneActivated=Redstone triggered
+pc.roaster.insertFuel=fuel
+pc.gui.blockReplacer.title=Block Replacer
+pc.gui.blockReplacer.errWrongValue=Expects a value between -16 and 16.
+pc.gui.blockReplacer.err3zeros=Expects at least 1 value unequal 0.
+pc.gui.blockReplacer.particleFrame=Particles
+pc.gui.xpbank.storagePoints=Stored XP:
+pc.gui.xpbank.currentPlayerLevel=Your level:
+pc.gui.xpbank.xpUnit=points
+pc.gui.xpbank.xpLevels=levels
+pc.gui.xpbank.withdraw=Withdraw:
+pc.gui.xpbank.deposit=Deposit:
+pc.gui.xpbank.oneLevel=1 level
+pc.gui.xpbank.all=all
+pc.gui.transmutabox.timeCritical=Time critical?

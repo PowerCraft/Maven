@@ -1,0 +1,20 @@
+#ru_RU language files.
+tile.PCde_BlockIronFrame.name=Железная рамка
+tile.PCde_BlockChimney.type0.name=Дымоход из булыжника
+tile.PCde_BlockChimney.type1.name=Дымоход из кирпича
+tile.PCde_BlockChimney.type2.name=Дымоход из каменного кирпича
+tile.PCde_BlockChimney.type3.name=Дымоход из потресканного каменного кирпича
+tile.PCde_BlockChimney.type4.name=Дымоход из резного каменного кирпича
+tile.PCde_BlockChimney.type5.name=Дымоход из песчанника
+tile.PCde_BlockChimney.type6.name=Дымоход из резного песчанника
+tile.PCde_BlockChimney.type7.name=Дымоход из гладкого песчанника
+tile.PCde_BlockChimney.type8.name=Дымоход из адского кирпича
+tile.PCde_BlockChimney.type9.name=Дымоход из кварца
+tile.PCde_BlockChimney.type10.name=Дымоход из резного кварца
+tile.PCde_BlockChimney.type11.name=Дымоход из кварцевой колонны
+tile.PCde_BlockChimney.type12.name=Дымоход из замшелого булыжника
+tile.PCde_BlockChimney.type13.name=Дымоход из замшелого каменного кирпича
+tile.PCde_BlockChimney.type14.name=Дымоход из глины
+tile.PCde_BlockChimney.type15.name=Дымоход из железа
+tile.PCde_BlockPlatform.name=Платформа
+tile.PCde_BlockStairs.name=Лестница

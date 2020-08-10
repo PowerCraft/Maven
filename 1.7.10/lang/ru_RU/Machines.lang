@@ -1,0 +1,23 @@
+#ru_RU language files.
+tile.PCma_BlockAutomaticWorkbench.name=Автоматический верстак
+tile.PCma_BlockRoaster.name=Жаровня
+tile.PCma_BlockReplacer.name=Заменитель
+tile.PCma_BlockTransmutabox.name=Transmutabox
+tile.PCma_BlockXPBank.name=Банк опыта
+tile.PCma_BlockBlockBuilder.name=Установочная машина
+tile.PCma_BlockHarvester.name=Уборочная машина
+pc.gui.automaticWorkbench.redstoneActivated=Реагировать на редстоун
+pc.roaster.insertFuel=топливо
+pc.gui.blockReplacer.title=Заменитель
+pc.gui.blockReplacer.errWrongValue=Значение может быть в пределах от -16 до 16.
+pc.gui.blockReplacer.err3zeros=Ожидается как минимум 1 значение, равное 0.
+pc.gui.blockReplacer.particleFrame=Частицы
+pc.gui.xpbank.storagePoints=Хранится опыта:
+pc.gui.xpbank.currentPlayerLevel=Ваш уровень:
+pc.gui.xpbank.xpUnit=баллов
+pc.gui.xpbank.xpLevels=уровни
+pc.gui.xpbank.withdraw=Забрать:
+pc.gui.xpbank.deposit=Положить:
+pc.gui.xpbank.oneLevel=1 уровень
+pc.gui.xpbank.all=всё
+pc.gui.transmutabox.timeCritical=Время критично?

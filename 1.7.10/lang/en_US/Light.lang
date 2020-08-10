@@ -1,0 +1,14 @@
+#en_US language files.
+tile.PCli_BlockLight.name=Light
+tile.PCli_BlockLightningConductor.name=Lightning conductor
+tile.PCli_BlockLaser.name=Laser
+tile.PCli_BlockMirror.name=Mirror
+tile.PCli_BlockPrism.name=Prism
+tile.PCli_BlockLaserSensor.name=Laser sensor
+pc.gui.light.isHuge=is Huge
+pc.gui.light.isStable=is Stable
+death.attack.laser=%s wanted to know his reflexivity
+item.PCli_ItemLaserComposition.name=Laser composition
+item.PCli_ItemLaserComposition.distance.name=Distance Level %s
+item.PCli_ItemLaserComposition.kill.name=Kill Level %s
+item.PCli_ItemLaserComposition.sensor.name=Sensor Level %s

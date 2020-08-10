@@ -1,0 +1,21 @@
+#ru_RU language files.
+tile.PCtp_BlockTeleporter.name=Телепортер
+item.PCtp_ItemTeleporterCore.name=Телепортирующее ядро
+pc.gui.teleporter.name=Имя:
+pc.gui.teleporter.target=Назначение:
+pc.gui.teleporter.nothing=<Ничего>
+pc.gui.teleporter.page1=Телепортер
+pc.gui.teleporter.animals=Животные
+pc.gui.teleporter.monsters=Монстры
+pc.gui.teleporter.items=Предметы
+pc.gui.teleporter.players=Игроки
+pc.gui.teleporter.lasers=Лазеры
+pc.gui.teleporter.sneakTrigger=Шифт меню
+pc.gui.teleporter.playerChoose=Выбор игроком
+pc.gui.teleporter.soundEnabled=Звук
+pc.gui.teleporter.north=Север
+pc.gui.teleporter.east=Восток
+pc.gui.teleporter.south=Юг
+pc.gui.teleporter.west=Запад
+pc.gui.teleporter.page2=Настройки
+pc.gui.teleportTo.title=Телепортироваться в

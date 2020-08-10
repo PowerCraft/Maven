@@ -1,0 +1,21 @@
+#en_US language files.
+tile.PCtp_BlockTeleporter.name=Teleporter
+item.PCtp_ItemTeleporterCore.name=Teleporter core
+pc.gui.teleporter.name=Name:
+pc.gui.teleporter.target=Target:
+pc.gui.teleporter.nothing=<Nothing>
+pc.gui.teleporter.page1=Teleporter
+pc.gui.teleporter.animals=animals
+pc.gui.teleporter.monsters=monsters
+pc.gui.teleporter.items=items
+pc.gui.teleporter.players=players
+pc.gui.teleporter.lasers=lasers
+pc.gui.teleporter.sneakTrigger=sneakTrigger
+pc.gui.teleporter.playerChoose=playerChoose
+pc.gui.teleporter.soundEnabled=soundEnabled
+pc.gui.teleporter.north=north
+pc.gui.teleporter.east=east
+pc.gui.teleporter.south=south
+pc.gui.teleporter.west=west
+pc.gui.teleporter.page2=Property
+pc.gui.teleportTo.title=Teleport To

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info version="0.1.0B" devversion="0.1.0B">
+	<main langversion="0" langlink="">
+		<forge>
+			<version superversion="1.7.10" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/api/0.1.0B/api-0.1.0B.jar?raw=true">
+				The new Beta Api for PowerCraft 0.1.0B Minecraft 1.7.10
+			</version>
+		</forge>
+	</main>
+	<module modulename="Core" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/core/0.1.0B/core-0.1.0B.jar?raw=true">
+			Beta Core for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Deco" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/deco/0.1.0B/deco-0.1.0B.jar?raw=true">
+			Beta Deco for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Hologram" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/hologram/0.1.0B/hologram-0.1.0B.jar?raw=true">
+			Beta Hologram for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Storage" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/storage/0.1.0B/storage-0.1.0B.jar?raw=true">
+			Beta Storage for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Light" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/light/0.1.0B/light-0.1.0B.jar?raw=true">
+			Beta Light for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Logic" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/logic/0.1.0B/logic-0.1.0B.jar?raw=true">
+			Beta Logic for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Machines" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/machines/0.1.0B/machines-0.1.0B.jar?raw=true">
+			Beta Machines for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Mobile" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/mobile/0.1.0B/mobile-0.1.0B.jar?raw=true">
+			Beta Mobile for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Net" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/net/0.1.0B/net-0.1.0B.jar?raw=true">
+			Beta Net for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Teleport" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/teleport/0.1.0B/teleport-0.1.0B.jar?raw=true">
+			Beta Teleport for Minecraft 1.7.10
+		</version>
+	</module>
+	<module modulename="Transport" langversion="0" langlink="">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/transport/transport-0.1.0B.jar?raw=true">
+			Beta Transport for Minecraft 1.7.10
+		</version>
+	</module>
+	<pack packname="All">
+		<childmodule>Deco</childmodule>
+		<childmodule>Hologram</childmodule>
+		<childmodule>Storage</childmodule>
+		<childmodule>Light</childmodule>
+		<childmodule>Logic</childmodule>
+		<childmodule>Machines</childmodule>
+		<childmodule>Mobile</childmodule>
+		<childmodule>Net</childmodule>
+		<childmodule>Teleport</childmodule>
+		<childmodule>Transport</childmodule>
+		<version superversion="0.1.0B" version="0.1.0B">
+			A pack with all modules
+		</version>
+	</pack>
+</Info>

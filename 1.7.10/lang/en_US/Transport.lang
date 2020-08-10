@@ -1,0 +1,24 @@
+#en_US language files.
+pc.gui.separationBelt.group=Ignore subtypes of
+pc.gui.separationBelt.groupLogs=Logs
+pc.gui.separationBelt.groupPlanks=Planks
+pc.gui.separationBelt.groupAll=All
+pc.gui.ejector.modeEjectTitle=Ejection mode:
+pc.gui.ejector.modeStacks=Whole stacks
+pc.gui.ejector.modeItems=Single items
+pc.gui.ejector.modeAll=All contents at once
+pc.gui.ejector.modeSelectTitle=Method of selection:
+pc.gui.ejector.modeSelectFirst=First slot
+pc.gui.ejector.modeSelectLast=Last slot
+pc.gui.ejector.modeSelectRandom=Random slot
+tile.PCtr_BlockSplitter.name=Splitter
+tile.PCtr_BlockElevator.up.name=Elevator up
+tile.PCtr_BlockElevator.down.name=Elevator down
+tile.PCtr_BlockBeltNormal.name=Belt conveyor normal 
+tile.PCtr_BlockBeltSpeedy.name=Belt conveyor speedy 
+tile.PCtr_BlockBeltBreak.name=Belt conveyor break
+tile.PCtr_BlockBeltDetector.name=Belt conveyor detector 
+tile.PCtr_BlockBeltRedirector.name=Belt conveyor redirector 
+tile.PCtr_BlockBeltSeparator.name=Belt conveyor separator 
+tile.PCtr_BlockBeltEjector.name=Belt conveyor ejector
+item.PCtr_ItemArmorStickyBoots.name=Sticky boots

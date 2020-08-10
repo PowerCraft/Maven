@@ -58,7 +58,7 @@
 		</version>
 	</module>
 	<module modulename="Transport" langversion="0" langlink="">
-		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/transport/transport-0.1.0B.jar?raw=true">
+		<version superversion="0.1.0B" version="0.1.0B" downloadlink="https://github.com/PowerCraft/Maven/blob/master/1.7.10/powercraft/transport/0.1.0B/transport-0.1.0B.jar?raw=true">
 			Beta Transport for Minecraft 1.7.10
 		</version>
 	</module>

@@ -5,5 +5,4 @@
   <groupId>powercraft</groupId>
   <artifactId>api</artifactId>
   <version>0.1.0B</version>
-  <packaging>pom</packaging>
 </project>
